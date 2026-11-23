@@ -1,6 +1,6 @@
 # John Amodeo
 
-Software for life science research and AI/ML.
+Research on primate visual attention, and production software/agents for biotech. I care about clean, interpretable code, rigor and reproducibility in results and runtimes, and models tested against well-defined targets.
 
 ## Projects
 
