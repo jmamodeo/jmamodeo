@@ -1,6 +1,6 @@
 # John Amodeo
 
-Research on primate visual attention. Production software and agents for biotech. I care about clean, interpretable code, rigor and reproducibility in results and runtimes, and models tested against well-defined targets.
+Research on primate visual attention; production software and agents for biotech. I care about clean, interpretable code, rigor and reproducibility in results and runtimes, and models tested against well-defined targets.
 
 ## Projects
 
