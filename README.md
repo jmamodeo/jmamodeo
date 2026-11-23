@@ -1,6 +1,6 @@
 # John Amodeo
 
-Software at the intersection of systems neuroscience and AI/ML.
+Software spanning neuroscience research, applied AI/ML, and life science analytics.
 
 ## Projects
 
