@@ -1,6 +1,6 @@
 # John Amodeo
 
-Software spanning neuroscience research, applied AI/ML, and life science analytics.
+Software for life science research and AI/ML.
 
 ## Projects
 
