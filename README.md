@@ -11,4 +11,4 @@ Research on primate visual attention, and production software and agents for bio
 
 ## Citation
 
-Cite the software from each repository's `CITATION.cff`. The ASD neurodevelopment model and paper are also archived at [doi:10.5281/zenodo.24344589](https://doi.org/10.5281/zenodo.24344589).
+If you use the code, methods, or materials from these projects, please cite them using each repository's `CITATION.cff`. The ASD neurodevelopment model and paper are also archived at [doi:10.5281/zenodo.24344589](https://doi.org/10.5281/zenodo.24344589).
